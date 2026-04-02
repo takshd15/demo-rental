@@ -4,3 +4,6 @@ build
 .env
 .env.local
 .DS_Store
+
+# Vercel CLI local project link
+.vercel
